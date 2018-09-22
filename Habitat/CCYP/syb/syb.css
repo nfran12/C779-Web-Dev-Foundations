@@ -39,6 +39,11 @@ color: #093
 }
 */
 
+img
+{
+border: 0px;
+}
+
 header 
 {		
 display:block;
