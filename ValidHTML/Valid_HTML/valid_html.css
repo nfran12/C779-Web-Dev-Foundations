@@ -1,0 +1,46 @@
+/* stylesheet for valid_html.htm */
+
+
+
+body             
+{			
+
+font-family:verdana, "courier new" , arial; 
+font-size:14px; 
+color: yellow; 
+background-color:darkslategrey;
+}
+
+h1
+{
+font-family:"courier new", sans-serif;
+color:yellow;
+font-size:32px;
+}
+
+h2
+{
+font-family:"courier new", arial, sans-serif;
+color:yellow;
+font-size:20px;
+}
+
+h3
+{
+font-family:"courier new", arial, sans-serif;
+color: orangered;
+font-size:16px;
+}
+
+footer 
+{
+clear:both;
+width:600px;
+display:block;
+text-align:center;
+font-family:"courier new",Arial, Helvetica, Geneva, Swiss, sans-serif;
+font-size:80%;
+padding:0;
+margin-top:0;
+background:#fff url(valid-css.gif) no-repeat left;
+}
