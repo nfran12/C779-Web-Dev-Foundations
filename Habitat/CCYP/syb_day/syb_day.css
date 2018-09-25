@@ -1,9 +1,37 @@
-/* STYLE SHEET FOR SYB.HTML */
+/* STYLE SHEET FOR SYB_DAY.HTML */
 
 body 
 {
 margin:10px;
 background-image:url('background.jpg');
+}
+
+table
+{
+font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+font-size: 70%;
+width:90%;
+}
+
+table.center
+{
+margin-left: auto; 
+margin-right: auto;
+}
+
+th.width
+{
+width:50px;
+}
+
+td.center
+{
+text-align:center;
+}
+
+td
+{
+padding:5px;
 }
 
 p 
@@ -33,7 +61,6 @@ margin-bottom: 10px;
 font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
 color: purple;
 }
-
 
 a 
 {
@@ -110,30 +137,3 @@ margin-top:0;
 background-color:#fff;
 }
 
-td.center
-{
-text-align:center;
-}
-
-table
-{
-font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
-font-size: 70%;
-width:90%;
-}
-
-table.center
-{
-margin-left: auto; 
-margin-right: auto;
-}
-
-td
-{
-padding:5px;
-}
-
-th.width
-{
-width:50px;
-}
